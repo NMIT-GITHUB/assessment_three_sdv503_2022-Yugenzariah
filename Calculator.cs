@@ -43,7 +43,7 @@ namespace Calculator
                     Console.WriteLine("Invalid operator input"); // If the inout is different from the inputs privided it will prompt you an erroroperator input"
                     break;
             }
-            Console.WriteLine("Your result is: "); // It now prints the answer
+            Console.WriteLine("Your result is: "); // It now prints the answer and shows the output
             Console.WriteLine(result);
         }
     }
